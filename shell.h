@@ -3,8 +3,13 @@
 
 /*
  * File: shell.h
+<<<<<<< HEAD
  * Auth: Dawit Abebe
  *       Yohanes Robi
+=======
+ * Auth: Alex Yu
+ *       Brennan D Baraban
+>>>>>>> 2de5739426ff11e69084a4a483ff666cb16882fa
  */
 
 #include <fcntl.h>
